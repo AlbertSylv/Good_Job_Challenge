@@ -1,0 +1,90 @@
+[
+	{
+		"user_created": "f9365a22-de10-4e29-8a65-53c68c8e8a42",
+		"id": "10940566-fb90-4a1d-b33e-f44dec6f1040",
+		"date_created": "2023-03-22T14:18:00.000Z",
+		"title": "toilet job",
+		"description": "- Ram plet, træk ud, brug børsten og tør toiletbrættet",
+		"points": 83
+	},
+	{
+		"user_created": "f9365a22-de10-4e29-8a65-53c68c8e8a42",
+		"id": "1291286b-abda-45a2-a791-ff77a9695dd2",
+		"date_created": "2023-03-22T14:17:29.000Z",
+		"title": "coffee job",
+		"description": "- Lav en frisk kande kaffe, hvis den tømmes og tør bord af",
+		"points": 105
+	},
+	{
+		"user_created": "f9365a22-de10-4e29-8a65-53c68c8e8a42",
+		"id": "4857e306-c225-455b-acf2-170be85aef32",
+		"date_created": "2023-03-22T14:19:09.000Z",
+		"title": "before lunch job",
+		"description": "- Stil frokosten på bordet",
+		"points": 128
+	},
+	{
+		"user_created": "f9365a22-de10-4e29-8a65-53c68c8e8a42",
+		"id": "59a06ef4-3b0b-4a0d-b01f-fd4ff8fcbaa6",
+		"date_created": "2023-03-29T12:45:26.000Z",
+		"title": "meeting job",
+		"description": "– Rengør whiteboard og efterlad lokalet opryddet efter endt møde",
+		"points": 112
+	},
+	{
+		"user_created": "f9365a22-de10-4e29-8a65-53c68c8e8a42",
+		"id": "66a3fd58-a106-481a-846a-1c2ef03560b5",
+		"date_created": "2023-03-22T14:16:20.000Z",
+		"title": "trash job",
+		"description": "- Gå i gården med den fyldte skraldepose og påfyld ny pose",
+		"points": 120
+	},
+	{
+		"user_created": "f9365a22-de10-4e29-8a65-53c68c8e8a42",
+		"id": "673cd851-6a37-4a79-8496-e669d3211885",
+		"date_created": "2023-03-22T14:16:01.000Z",
+		"title": "electricity job",
+		"description": "- Sluk al lys og neon backslash, hvis huset forlades som den sidste",
+		"points": 73
+	},
+	{
+		"user_created": "f9365a22-de10-4e29-8a65-53c68c8e8a42",
+		"id": "7529ba50-257d-4bee-9e03-891579fbb6bd",
+		"date_created": "2023-03-22T14:18:53.000Z",
+		"title": "after lunch job",
+		"description": "- Smid foliebakker ud, tør borde og sstil resterende mad i køleskabet",
+		"points": 197
+	},
+	{
+		"user_created": "f9365a22-de10-4e29-8a65-53c68c8e8a42",
+		"id": "853a7b6d-93c6-423b-acfd-e99c0794c545",
+		"date_created": "2023-03-22T14:16:55.000Z",
+		"title": "bread job",
+		"description": "- Tøm brødbordet, stil smør mm. i køleskab og tør bordet",
+		"points": 84
+	},
+	{
+		"user_created": "f9365a22-de10-4e29-8a65-53c68c8e8a42",
+		"id": "8b98aef0-4d0d-4909-b43f-8404902c5f06",
+		"date_created": "2023-03-22T14:17:14.000Z",
+		"title": "espresso job",
+		"description": "- Rengør espresso maskinen og de løse dele samt bordet",
+		"points": 63
+	},
+	{
+		"user_created": "f9365a22-de10-4e29-8a65-53c68c8e8a42",
+		"id": "988e52e6-c5e0-4742-977e-c9dafc481fcd",
+		"date_created": "2023-03-22T14:18:34.000Z",
+		"title": "dishwasher job",
+		"description": "- Fyld service i maskinen, tænd den, tøm den hvis den er færdig og skyl af hvis den er i gang",
+		"points": 144
+	},
+	{
+		"user_created": "f9365a22-de10-4e29-8a65-53c68c8e8a42",
+		"id": "bbdffe54-a7ea-4e2b-b5b4-a0c5ea7ae671",
+		"date_created": "2023-03-22T14:16:37.000Z",
+		"title": "elevator job",
+		"description": "- Send elevatoren ned ved besøg",
+		"points": 50
+	}
+]
