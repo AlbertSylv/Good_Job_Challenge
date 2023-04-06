@@ -1,9 +1,10 @@
-#Welcome to the good job challenge project!
+# Welcome to the good job challenge project!
+
 This project is only the frontend. It needs a Directus backend, that you'll need to create manually.
 
-- but dont worry! Directus is pretty easy to set up.
+but dont worry! Directus is pretty easy to set up.
 
-#Directus setup (Backend)
+# Directus setup (Backend)
 
 These instructions assume that you have node installed and a clean database running
 
@@ -11,9 +12,9 @@ Start by opening a terminal and navigate to a folder where you want your backend
 
 Run the following commands:
 
-"npm install -g directus"
+    npm install -g directus
 
-"npx create-directus-project directus_goodjobchallenge"
+    npx create-directus-project directus_goodjobchallenge
 
 Now you'll be prompted to choose your databse settings and create an admin user
 
@@ -33,26 +34,26 @@ Press the tick in the top right
 
 Now you'll need to add a few fields to your collection, press "Create Field"
 
-    First field:
+First field:
 
-    Kind of field: input field
-    Key: "description"
-    type:String
-    Required: yes
+Kind of field: input field
+Key: "description"
+type:String
+Required: yes
 
-    Second field:
+Second field:
 
-    Kind of field: input field
-    Key: "title"
-    type:String
-    Required: yes
+Kind of field: input field
+Key: "title"
+type:String
+Required: yes
 
-    Third field:
+Third field:
 
-    Kind of field: input field
-    Key: "points"
-    type: Integer
-    Required: yes
+Kind of field: input field
+Key: "points"
+type: Integer
+Required: yes
 
 Save the jobs collection.
 
@@ -68,35 +69,35 @@ Press the tick in the top right corner
 
 Now we need to create some fields for the userjobs collection:
 
-    First field:
+First field:
 
-    Kind of field: many to one
-    Key: "jobId"
-    type: integer
-    Required: yes
-    Related Collection: jobs
-    Display Template: ID
+Kind of field: many to one
+Key: "jobId"
+type: integer
+Required: yes
+Related Collection: jobs
+Display Template: ID
 
-    Second field:
+Second field:
 
-    Kind of field: input field
-    Key: "user_name"
-    type:String
-    Required: yes
+Kind of field: input field
+Key: "user_name"
+type:String
+Required: yes
 
-    Third field:
+Third field:
 
-    Kind of field: input field
-    Key: "Points"
-    type: Integer
-    Required: yes
+Kind of field: input field
+Key: "Points"
+type: Integer
+Required: yes
 
-    Fourth field:
+Fourth field:
 
-    Kind of field: input field
-    Key: "job_title"
-    type:String
-    Required: yes
+Kind of field: input field
+Key: "job_title"
+type:String
+Required: yes
 
 Now you need to go to "Roles & Permissions" under settings.
 
@@ -117,7 +118,7 @@ The role code of your directus user should look something like this: "cdfae04d-d
 
 Copy the role code.
 
-#Setup the frontend
+# Setup the frontend
 
 Git clone this project if you havent already.
 
